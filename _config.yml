@@ -1,9 +1,9 @@
 
 # Site settings
-title: 
-email: 
+title: TKVTV
+email: xxx@facebook.com
 baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://takagotch.github.io/page79/" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
